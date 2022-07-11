@@ -1,6 +1,6 @@
 👋 Hi, I’m @anemomylos.
 
-I'm the developer of Easyjoin and some other apps. I'm not sure why I'm editing this file, but now that I've started I can't leave it half done.
+I'm the developer of EasyJoin and some other apps. I'm not sure why I'm editing this file, but now that I've started I can't leave it half done.
 
 You can read about my apps at https://easyjoin.net and chat with me on Reddit (https://www.reddit.com/user/anemomylos). 
 
